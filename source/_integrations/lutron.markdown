@@ -56,6 +56,8 @@ password:
 
 <div class='note'>
 
+(note: proper spacing is CRITICAL here... be sure to leave a space after the colon in the configuration above. example host: IP_ADDRESS is correct, host:IP_ADDRESS is INCORRECT and will error!)
+
 It is recommended to assign a static IP address to your main repeater. This ensures that it won't change IP addresses, so you won't have to change the `host` if it reboots and comes up with a different IP address.
 
 </div>
